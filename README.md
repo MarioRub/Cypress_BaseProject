@@ -1,6 +1,10 @@
 # Cypress BoilerPlate project
 
+<br />
+
 ## Requierements:
+
+<br />
 
 1. [NodeJS](https://nodejs.org/es/)
 
