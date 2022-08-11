@@ -35,7 +35,6 @@ npm install cypress --save-dev
 ```
 
 ## Usage
-<br />
 
 And then to run the project use this command:
 
