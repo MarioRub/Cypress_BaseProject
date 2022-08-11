@@ -1,10 +1,9 @@
 # Cypress BoilerPlate project
 
-<br />
+Created by ny own.
 
 ## Requierements:
 
-<br />
 
 1. [NodeJS](https://nodejs.org/es/)
 
