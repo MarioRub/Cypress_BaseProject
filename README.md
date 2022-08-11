@@ -9,7 +9,6 @@ Created by my own.
 
 
 ### First copy the project into your local machine, open a terminal in the folder path and run the following commands:
-<br />
 
 * On Mac use:
 
