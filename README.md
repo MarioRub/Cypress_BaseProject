@@ -1,6 +1,6 @@
 # Cypress BoilerPlate project
 
-Created by ny own.
+Created by my own.
 
 ## Requierements:
 
