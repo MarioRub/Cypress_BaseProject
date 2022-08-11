@@ -8,7 +8,7 @@ Created by my own.
 1. [NodeJS](https://nodejs.org/es/)
 
 
-### First copy the project into your local machine, open a terminal in the folder path and run the following commands:
+### First copy the project into your local machine and open a terminal in the folder path.
 
 * On Mac use:
 
