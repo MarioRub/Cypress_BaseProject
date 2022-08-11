@@ -22,7 +22,6 @@ cd downloads/cypress
 * On Windows, open the `cypress` folder, use `Shift+Right Click` and click on `Open a command windows here`.
 
 ## Installation
-<br />
 
 To install all the project dependencies:
 
