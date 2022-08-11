@@ -16,7 +16,6 @@ Open a terminal and use the following command:
 ```bash
 cd downloads/cypress
 ```
-<br />
 
 * On Windows, open the `cypress` folder, use `Shift+Right Click` and click on `Open a command windows here`.
 
