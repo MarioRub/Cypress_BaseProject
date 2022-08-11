@@ -21,8 +21,6 @@ cd downloads/cypress
 
 * On Windows, open the `cypress` folder, use `Shift+Right Click` and click on `Open a command windows here`.
 
-<br />
-
 ## Installation
 <br />
 
