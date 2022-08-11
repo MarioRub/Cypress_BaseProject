@@ -1,11 +1,9 @@
 # Cypress BoilerPlate project
 
 ## Requierements:
-<br />
 
 1. [NodeJS](https://nodejs.org/es/)
 
-<br />
 
 ### First copy the project into your local machine, open a terminal in the folder path and run the following commands:
 <br />
