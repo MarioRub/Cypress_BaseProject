@@ -2,7 +2,7 @@
 class SearchPage {
 
   static elements = {
-    INPUT_TEXT: 'input.gLFyf.gsfi',
+    INPUT_TEXT: 'textarea[name="q"]',
     BUTTON_SEARCH: 'input.gNO89b',
   }
 
